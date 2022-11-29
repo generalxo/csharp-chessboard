@@ -1,0 +1,30 @@
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.exe
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.deps.json
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.runtimeconfig.json
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.pdb
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.csproj.AssemblyReference.cache
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.AssemblyInfoInputs.cache
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.AssemblyInfo.cs
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.csproj.CoreCompileInputs.cache
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\refint\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.pdb
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.genruntimeconfig.cache
+C:\Users\oliwa\Desktop\Programing Projects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\ref\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.exe
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.deps.json
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.runtimeconfig.json
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\bin\Debug\net6.0\chessBoardLayout.pdb
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.csproj.AssemblyReference.cache
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.AssemblyInfoInputs.cache
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.AssemblyInfo.cs
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.csproj.CoreCompileInputs.cache
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\refint\chessBoardLayout.dll
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.pdb
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\chessBoardLayout.genruntimeconfig.cache
+C:\Users\oliwa\Desktop\ProgramingProjects\csharp\chessBoardLayout\chessBoardLayout\obj\Debug\net6.0\ref\chessBoardLayout.dll
